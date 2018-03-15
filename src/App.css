@@ -1,0 +1,32 @@
+.icon {
+  height: 175px;
+}
+
+.dropzone {
+  margin-top: 25px;
+  margin-bottom: 25px;
+
+  border: 2px dashed #5b2d89;
+  border-radius: 5px;
+  background: white;
+}
+
+.dropzone-hidden {
+    display: none;
+}
+
+.ciser-link {
+  color: #EE5239;
+}
+
+.ciser-link:hover {
+  color: #ee5239;
+}
+
+.neh-link {
+  color: #7d8524;
+}
+
+.neh-link:hover {
+  color: #7d8524;
+}
