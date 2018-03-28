@@ -1,5 +1,6 @@
 {
   "name": "fotm-uploader",
+  "homepage": "https://freedomonthemove.github.io/submission-uploader",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
