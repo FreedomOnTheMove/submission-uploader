@@ -5,10 +5,18 @@
 .dropzone {
   margin-top: 25px;
   margin-bottom: 25px;
+  cursor: pointer;
 
   border: 2px dashed #5b2d89;
   border-radius: 5px;
   background: white;
+}
+
+.vertical-align {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
 }
 
 .dropzone-hidden {
