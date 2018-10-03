@@ -16,10 +16,10 @@ export default function ImportErrors(props) {
               return(
                   <tr key={rowkey++}>
                     <th>
-                      {e.cause}
+                      {e.message}
                     </th>
                     <th>
-                      {e.exception.cause.message}
+                      {e.cause.message}
                     </th>
                   </tr>
               );
