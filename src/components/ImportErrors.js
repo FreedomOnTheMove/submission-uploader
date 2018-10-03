@@ -19,7 +19,7 @@ export default function ImportErrors(props) {
                       {e.message}
                     </th>
                     <th>
-                      {e.cause.message}
+                      {e.cause ? e.cause.message : ""}
                     </th>
                   </tr>
               );
